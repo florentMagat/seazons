@@ -1,0 +1,118 @@
+{
+    "fruits" :[
+        {
+            "name":"Abricots",
+            "months":["juillet", "août"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Cassis",
+            "months":["juin", "juillet", "août"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Cerises",
+            "months":["juin", "juillet", "août"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Figues",
+            "months":["juillet", "août", "septembre"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Fraises",
+            "months":["juin", "juillet", "août"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Framboises",
+            "months":["juin", "juillet", "août", "septembre", "octobre"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Groseilles",
+            "months":["juillet", "août"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Kiwis",
+            "months":["septembre", "octobre", "novembre", "décembre", "janvier", "février", "mars", "avril"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Melon",
+            "months":["juillet", "août", "septembre"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Mûres",
+            "months":["juillet", "août", "septembre", "octobre"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Myrtilles",
+            "months":["juillet", "août", "septembre"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Nectarines",
+            "months":["juillet", "août"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Noix",
+            "months":["octobre", "novembre", "décembre", "janvier", "février"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Pêches",
+            "months":["juillet", "août", "septembre"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Poires",
+            "months":["août", "septembre", "octobre", "novembre", "décembre", "janvier", "février", "mars"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Pommes",
+            "months":["août", "septembre", "octobre", "novembre", "décembre", "janvier", "février", "mars", "avril", "mai"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Pruneaux",
+            "months":["août", "septembre"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Prunes",
+            "months":["août", "septembre"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Raisins",
+            "months":["septembre", "octobre", "novembre"],
+            "image":"",
+            "countries":[]
+        }
+    ]
+}

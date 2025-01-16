@@ -1,0 +1,130 @@
+{
+    "legumes" :[
+        {
+            "name":"Artichauts",
+            "months":["août", "septembre", "octobre"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Asperges",
+            "months":["avril", "mai", "juin"],
+            "image":"",
+            "countries":[]
+        },
+        {
+            "name":"Aubergines",
+            "months":["juin", "juillet", "août", "septembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Betteraves",
+            "months":["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Broccolis",
+            "months":["mai", "juin", "juillet", "août", "septembre", "octobre", "novembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Carottes",
+            "months":["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Choux de Bruxelles",
+            "months":["janvier", "février", "mars", "septembre", "octobre", "novembre", "décembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Chou fleur",
+            "months":["mai", "juin", "juillet", "août", "septembre", "octobre", "novembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Chou rouge",
+            "months":["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Concombre",
+            "months":["mai", "juin", "juillet", "août", "septembre", "octobre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Courge",
+            "months":["janvier", "août", "septembre", "octobre", "novembre", "décembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Courgettes",
+            "months":["juin", "juillet", "août", "septembre", "octobre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Endives",
+            "months":["janvier", "février", "mars", "avril", "novembre", "décembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Epinards",
+            "months":["mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Haricots verts",
+            "months":["juin", "juillet", "août", "septembre", "octobre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Petits pois",
+            "months":["juin", "juillet"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Poireaux",
+            "months":["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Pommes de terre",
+            "months":["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Radis",
+            "months":["avril", "mai", "juin", "juillet", "août", "septembre", "octobre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Tomates",
+            "months":["juin", "juillet", "août", "septembre", "octobre"],
+            "image":"",
+            "countries":[]
+        },        
+        {
+            "name":"Tomates cerises",
+            "months":["juin", "juillet", "août", "septembre", "octobre"],
+            "image":"",
+            "countries":[]
+        }
+    ]
+}
